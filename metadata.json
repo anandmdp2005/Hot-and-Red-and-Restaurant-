@@ -1,0 +1,6 @@
+{
+  "name": "Hot and Red Cafe and Restaurant - Patna",
+  "description": "Premium restaurant & cafe at 5th Floor G.V Mall, Boring Road Crossing, Patna. Explore delicious pizza, burgers, pasta, beverages, order on WhatsApp, and get directions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
